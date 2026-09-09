@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- BESPOKE HERO BANNER -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/hero-banner.svg" width="100%" alt="Vishal Maurya - Senior Full Stack Engineer" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/hero-banner.svg" width="100%" alt="Vishal Maurya - Senior Full Stack Engineer" />
 
 <br/><br/>
 
 <!-- EXECUTIVE METRICS BAR -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/metrics-bar.svg" width="100%" alt="Executive Metrics" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/metrics-bar.svg" width="100%" alt="Executive Metrics" />
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 <br/>
 
 <!-- SECTION: EXECUTIVE PROFILE -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-about.svg" width="100%" alt="Executive Profile" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-about.svg" width="100%" alt="Executive Profile" />
 
 I am a **Senior Full Stack Software Engineer & Cloud Architect** with **3+ years of professional experience** engineering high-concurrency, mission-critical systems across **Healthcare, FinTech, E-Learning, and Real Estate** domains.
 
@@ -50,7 +50,7 @@ public record SeniorEngineerProfile
 <br/>
 
 <!-- SECTION: TECHNICAL ARSENAL -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-stack.svg" width="100%" alt="Technical Arsenal" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-stack.svg" width="100%" alt="Technical Arsenal" />
 
 <div align="center">
 
@@ -67,7 +67,7 @@ public record SeniorEngineerProfile
 <br/>
 
 <!-- SECTION: OPEN SOURCE & BOUNTIES -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-bounties.svg" width="100%" alt="Open Source & Bounty Engineering" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-bounties.svg" width="100%" alt="Open Source & Bounty Engineering" />
 
 Active contributor solving high-complexity architectural issues, security validations, and asset pipelines in production open-source ecosystems:
 
@@ -81,7 +81,7 @@ Active contributor solving high-complexity architectural issues, security valida
 <br/>
 
 <!-- SECTION: FEATURED ENTERPRISE SYSTEMS -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-projects.svg" width="100%" alt="Featured Enterprise Systems" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-projects.svg" width="100%" alt="Featured Enterprise Systems" />
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ Active contributor solving high-complexity architectural issues, security valida
 <br/>
 
 <!-- SECTION: TELEMETRY & STREAK -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-metrics.svg" width="100%" alt="Contribution Telemetry" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-metrics.svg" width="100%" alt="Contribution Telemetry" />
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Active contributor solving high-complexity architectural issues, security valida
 <br/>
 
 <!-- SECTION: CONNECT & COLLABORATE -->
-<img src="https://raw.githubusercontent.com/dev-vishalmaurya/dev-vishalmaurya/main/assets/header-contact.svg" width="100%" alt="Let's Connect" />
+<img src="https://cdn.jsdelivr.net/gh/dev-vishalmaurya/dev-vishalmaurya@main/assets/header-contact.svg" width="100%" alt="Let's Connect" />
 
 Whether you are looking to discuss **Enterprise System Design, .NET Core Microservices, Full Stack Architecture**, or explore high-impact engineering opportunities:
 
