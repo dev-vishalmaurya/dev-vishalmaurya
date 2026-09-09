@@ -1,19 +1,25 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E3A8A,70:3B82F6,100:60A5FA&height=220&section=header&text=VISHAL%20MAURYA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full%20Stack%20Engineer%20%7C%20.NET%20%26%20Cloud%20Architect&descAlignY=58&descAlign=50&descSize=19" width="100%" alt="Vishal Maurya Banner"/>
+# ⚡ VISHAL MAURYA
+### `Senior Full Stack Software Engineer` • `Cloud Systems Architect`
+**3+ Years of Professional Experience · Building Resilient, High-Throughput & Scalable Systems**
+
+<br/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/dev-vishalmaurya">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Senior+Full+Stack+.NET+Developer;Building+Scalable+Enterprise+Cloud+Systems;ASP.NET+Core+%7C+C%23+%7C+Angular+%7C+React+%7C+Next.js;Clean+Architecture+%7C+Microservices+%7C+High-Load+APIs;Active+Open-Source+Contributor+%26+Bounty+Hunter" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- BADGES -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishal--protfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-protfolio.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmaurya2808/)
+&nbsp;
 [![GitHub Followers](https://img.shields.io/github/followers/dev-vishalmaurya?style=for-the-badge&logo=github&label=Followers&color=181717&logoColor=white)](https://github.com/dev-vishalmaurya)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=dev-vishalmaurya&style=for-the-badge&color=38BDF8&label=Profile+Views)](https://github.com/dev-vishalmaurya)
 
 </div>
@@ -123,9 +129,9 @@ Whether you're looking to discuss **Enterprise System Design, .NET Core Microser
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalmaurya2808@gmail.com)
 
+<br/><br/>
+
+**BUILD · LEARN · ENGINEER · SCALE**  
+*Turning complex domain requirements into simple, scalable software.*
+
 </div>
-
-<br/>
-
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0B0F19,25:1E3A8A,70:3B82F6,100:60A5FA&height=100&section=footer" width="100%" alt="Footer Banner"/>
