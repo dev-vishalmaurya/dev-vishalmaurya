@@ -11,7 +11,7 @@
 <br/>
 
 <!-- BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishal--portfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishal--protfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-protfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Maurya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmaurya2808/)
 [![GitHub Followers](https://img.shields.io/github/followers/dev-vishalmaurya?style=for-the-badge&logo=github&label=Followers&color=181717&logoColor=white)](https://github.com/dev-vishalmaurya)
 [![Profile Views](https://komarev.com/ghpvc/?username=dev-vishalmaurya&style=for-the-badge&color=38BDF8&label=Profile+Views)](https://github.com/dev-vishalmaurya)
@@ -117,7 +117,7 @@ Whether you're looking to discuss **Enterprise System Design, .NET Core Microser
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vishal--portfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vishal--protfolio.vercel.app-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-protfolio.vercel.app/)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmaurya2808/)
 &nbsp;&nbsp;
